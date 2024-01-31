@@ -1,21 +1,23 @@
-# Login App
+# <h1>Login App </h1>
 
-Este é um projeto de aplicativo de login simples que demonstra a criação de um formulário de login em HTML e estilização usando CSS.
+<p> Este é um projeto de aplicativo de login simples que demonstra a criação de um formulário de login em HTML e estilização usando CSS.</p>
 
-## Pré-requisitos
+## <h2> Pré-requisitos</h2>
 
+<p>
 Não há pré-requisitos específicos para visualizar o projeto, uma vez que é composto apenas de HTML e CSS básicos.
+</p>
 
-## Como Usar
+## <h2> Como Usar</h2>
 
 Basta abrir o arquivo `index.html` em um navegador da web para visualizar o aplicativo de login.
 
-## Estrutura de Arquivos
+## <h2>Estrutura de Arquivos</h2>
 
 - `index.html`: Contém a estrutura HTML do aplicativo de login.
 - `style.css`: Arquivo de estilo que define a aparência do aplicativo.
 
-## Captura de Tela
+## <h2> Captura de Tela </h2>
 
 <p align="center">
   <img alt="Login app" src="./img/readme.png" width="100%">
