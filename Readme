@@ -17,7 +17,9 @@ Basta abrir o arquivo `index.html` em um navegador da web para visualizar o apli
 
 ## Captura de Tela
 
-![Captura de tela do aplicativo de login](./img/readme.png)
+<p align="center">
+  <img alt="Login app" src="./img/readme.png" width="100%">
+</p>
 
 ## Contribuição
 
