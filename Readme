@@ -1,0 +1,32 @@
+# Login App
+
+Este é um projeto de aplicativo de login simples que demonstra a criação de um formulário de login em HTML e estilização usando CSS.
+
+## Pré-requisitos
+
+Não há pré-requisitos específicos para visualizar o projeto, uma vez que é composto apenas de HTML e CSS básicos.
+
+## Como Usar
+
+Basta abrir o arquivo `index.html` em um navegador da web para visualizar o aplicativo de login.
+
+## Estrutura de Arquivos
+
+- `index.html`: Contém a estrutura HTML do aplicativo de login.
+- `style.css`: Arquivo de estilo que define a aparência do aplicativo.
+
+## Captura de Tela
+
+![Captura de tela do aplicativo de login](./screenshot.png)
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você quiser melhorar este aplicativo de login, sinta-se à vontade para criar um fork e enviar suas sugestões.
+
+## Contato
+
+Se precisar de ajuda, pode me contatar pelo email [ricardozanete@gmail.com](mailto:ricardozanete@gmail.com.com) ou abrir uma issue.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
